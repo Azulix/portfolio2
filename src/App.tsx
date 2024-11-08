@@ -130,6 +130,11 @@ function App() {
                 icon: Briefcase,
                 title: "Outils",
                 skills: ["Git", "Docker", "AWS", "Figma"]
+              },
+              {
+                icon: Briefcase,
+                title: "test",
+                skills: ["Git", "Docker", "AWS", "Figma"]
               }
             ].map((category, index) => (
               <motion.div
