@@ -23,7 +23,7 @@ function App() {
               animate={{ opacity: 1, y: 0 }}
               className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-purple-500 to-cyan-500 bg-clip-text text-transparent"
             >
-              Développeur Créatif
+              Développeur FullStack
             </motion.h1>
             <motion.p
               initial={{ opacity: 0, y: 20 }}
