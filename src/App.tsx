@@ -31,7 +31,7 @@ function App() {
               transition={{ delay: 0.2 }}
               className="text-xl text-gray-300 mb-8"
             >
-              Transformant des idées en expériences numériques exceptionnelles
+              aaaaaaaaaaaaaaaaaaaaaaTransformant des idées en expériences numériques exceptionnelles
             </motion.p>
             
             <motion.div
